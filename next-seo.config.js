@@ -1,24 +1,24 @@
 /** @type {import('next-seo').DefaultSeoProps} */
 const defaultSEOConfig = {
-  title: "nextarter-chakra",
+  title: "next-chakra-ts",
   titleTemplate: "%s | nextarter-chakra",
   defaultTitle: "nextarter-chakra",
   description: "Next.js + chakra-ui + TypeScript template",
-  canonical: "https://nextarter-chakra.sznm.dev",
+  canonical: "https://https://lombeira.vercel.app/",
   openGraph: {
-    url: "https://nextarter-chakra.sznm.dev",
-    title: "nextarter-chakra",
+    url: "https://https://lombeira.vercel.app/",
+    title: "next-chakra-ts",
     description: "Next.js + chakra-ui + TypeScript template",
     images: [
       {
         url: "https://og-image.sznm.dev/**nextarter-chakra**.sznm.dev.png?theme=dark&md=1&fontSize=125px&images=https%3A%2F%2Fsznm.dev%2Favataaars.svg&widths=250",
-        alt: "nextarter-chakra.sznm.dev og-image",
+        alt: "https://lombeira.vercel.app/ og-image",
       },
     ],
     site_name: "nextarter-chakra",
   },
   twitter: {
-    handle: "@sozonome",
+    handle: "@Lombeira",
     cardType: "summary_large_image",
   },
 };
