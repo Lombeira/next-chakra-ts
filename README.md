@@ -1,4 +1,4 @@
-# nextarter-chakra
+# next-chakra-ts
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/Lombeira/next-chakra-ts)
 
