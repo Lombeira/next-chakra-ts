@@ -6,7 +6,6 @@ import SomeImage from "lib/components/samples/SomeImage";
 import SomeText from "lib/components/samples/SomeText";
 
 const Home = () => {
-  const killua = "suspeito";
   return (
     <Flex
       direction="column"
@@ -19,7 +18,6 @@ const Home = () => {
     >
       <NextSeo title="Home" />
       <SomeText />
-      {killua}
       <SomeImage />
       <CTASection />
     </Flex>
